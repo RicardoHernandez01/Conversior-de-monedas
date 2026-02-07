@@ -25,6 +25,7 @@ Este es un práctico conversor de divisas desarrollado en Java. El programa perm
 ### Ejemplo de Conversión
 
 <img width="838" height="499" alt="Screenshot from 2026-02-07 11-19-14" src="https://github.com/user-attachments/assets/ee58cd31-2a9a-41c6-a0df-473d7a01cfdd" />
+
 *Descripción: Resultado de convertir un monto específico entre dos divisas.*
 
 ---
